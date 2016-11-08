@@ -1,0 +1,6 @@
+database.driverClassName=org.sqlite.JDBC
+database.url=jdbc:sqlite:bookstore.db
+database.username=bookstore
+database.password=!Q@W#E$R5t
+#database.jdbc.init-db=true1
+#database.jdbc.initLocation=sql/app_mysql.sql

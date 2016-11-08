@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Nov 08 00:40:01 BRT 2016
+org.eclipse.jst.j2ee.server\:bookstore-common=WEB-INF/lib/bookstore-common-1.0.0.jar
+org.eclipse.jst.jee.server\:/binary\:/home/wilton/.m2/repository/org/springframework/spring-web/4.1.7.RELEASE/spring-web-4.1.7.RELEASE.jar=WEB-INF/lib/spring-web-4.1.7.RELEASE.jar

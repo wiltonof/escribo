@@ -1,0 +1,757 @@
+2016-11-07 21:40:58,947 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 21:40:59,517 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 21:41:02,053 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/main/java
+2016-11-07 21:41:02,054 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore-common/src/main/resources
+2016-11-07 21:41:02,056 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/test/java
+2016-11-07 21:41:02,342 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/main/java
+2016-11-07 21:41:02,342 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/test/java
+2016-11-07 21:41:03,251 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 7 sec
+2016-11-07 21:41:13,724 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:41:13,743 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2016-11-07 21:41:13,774 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:41:13,776 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 21:41:15,370 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:41:15,370 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 21:41:15,372 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:41:15,372 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 21:52:18,831 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:52:18,837 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-07 21:52:18,839 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:52:18,840 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 21:57:15,513 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:57:15,519 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-07 21:57:15,521 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:57:15,521 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 21:57:32,298 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:57:32,299 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-07 21:57:32,301 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:57:32,301 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 21:59:07,620 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:59:07,620 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-07 21:59:07,623 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 21:59:07,623 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 22:00:34,600 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:00:34,602 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:00:34,610 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:00:34,610 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:00:46,380 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:00:46,380 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:00:46,390 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:00:46,391 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:02:31,310 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:02:31,310 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:02:31,313 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:02:31,313 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:03:47,724 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:03:47,724 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:03:47,725 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:03:47,726 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:05:13,312 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:05:13,312 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:05:13,315 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:05:13,315 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:06:00,925 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-07 22:06:01,630 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 22:06:01,871 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 22:06:03,086 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/main/java
+2016-11-07 22:06:03,087 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore-common/src/main/resources
+2016-11-07 22:06:03,087 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/test/java
+2016-11-07 22:06:03,206 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/main/java
+2016-11-07 22:06:03,206 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/test/java
+2016-11-07 22:06:04,548 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bookstore-web
+2016-11-07 22:06:04,551 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-11-07 22:06:06,601 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:06,611 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 22:06:06,637 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:06,637 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 22:06:07,960 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:07,960 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:06:07,962 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:07,962 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:06:07,962 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-07 22:06:07,964 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-07 22:06:07,983 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:23,250 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-07 22:06:23,894 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 22:06:24,126 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 22:06:25,195 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/main/java
+2016-11-07 22:06:25,195 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore-common/src/main/resources
+2016-11-07 22:06:25,196 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/test/java
+2016-11-07 22:06:25,330 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/main/java
+2016-11-07 22:06:25,331 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/test/java
+2016-11-07 22:06:26,264 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bookstore-web
+2016-11-07 22:06:26,266 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-11-07 22:06:27,940 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:27,945 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 22:06:27,970 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:27,970 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 22:06:29,430 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:29,432 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:06:29,444 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:06:29,444 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:06:29,445 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-07 22:06:29,445 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-07 22:06:29,458 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:11:37,626 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:11:37,628 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:11:37,631 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:11:37,631 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:14:48,820 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:14:48,821 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:14:48,823 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:14:48,825 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:19:27,180 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:19:27,181 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:19:27,182 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:19:27,182 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:21:01,646 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:21:01,646 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:21:01,647 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:21:01,647 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:21:16,562 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:21:16,562 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:21:16,566 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:21:16,566 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:21:27,066 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:21:27,066 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:21:27,067 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:21:27,067 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:21:35,550 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:21:35,550 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:21:35,552 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:21:35,552 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:58:52,244 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:58:52,244 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:58:52,257 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:58:52,257 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:59:32,752 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:59:32,752 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:59:32,754 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:59:32,754 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 22:59:51,899 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:59:51,899 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 22:59:51,900 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 22:59:51,900 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:00:06,460 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:00:06,461 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:00:06,462 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:00:06,462 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:00:27,393 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:00:27,393 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:00:27,394 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:00:27,395 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:02:51,652 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:02:51,663 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:02:51,668 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:02:51,668 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:02:54,984 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:02:54,984 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:02:54,986 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:02:54,987 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:03:04,260 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:03:04,261 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:03:04,266 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:03:04,266 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:07:39,058 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:07:39,058 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:07:39,060 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:07:39,060 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:09:58,432 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:09:58,432 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:09:58,433 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:09:58,433 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:10:37,104 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:10:37,104 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:10:37,105 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:10:37,105 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:11:45,076 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:11:45,077 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:11:45,078 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:11:45,078 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:17:00,423 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:17:01,005 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/sqlite-jdbc/3.8.7/sqlite-jdbc-3.8.7.pom
+2016-11-07 23:17:01,703 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.8.7/sqlite-jdbc-3.8.7.pom
+2016-11-07 23:17:01,854 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.8.7/sqlite-jdbc-3.8.7.pom
+2016-11-07 23:17:02,378 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/sqlite-jdbc/3.8.7/sqlite-jdbc-3.8.7.jar
+2016-11-07 23:17:02,566 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.8.7/sqlite-jdbc-3.8.7.jar
+2016-11-07 23:17:04,164 [Worker-66] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.8.7/sqlite-jdbc-3.8.7.jar
+2016-11-07 23:17:04,737 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:04,738 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:17:04,739 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:04,739 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:17:04,739 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-07 23:17:04,739 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-07 23:17:04,743 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:05,913 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:17:06,181 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:17:06,641 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:06,642 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:17:06,643 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:06,643 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:17:08,386 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:08,387 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:17:08,390 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:08,390 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:17:08,859 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:08,859 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:17:08,861 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:17:08,862 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:20:15,574 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:20:16,144 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-07 23:20:16,822 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-07 23:20:16,823 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:20:17,259 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-07 23:20:17,792 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-07 23:20:17,837 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:20:18,034 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:20:18,133 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:20:18,133 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:20:18,135 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:20:18,135 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:20:18,832 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:20:18,986 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:20:19,217 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:20:19,840 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:20:19,840 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:20:19,841 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:20:19,841 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:20:19,841 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-07 23:20:19,841 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-07 23:20:19,850 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:22:47,309 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:22:47,644 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:22:47,684 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:22:47,690 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:22:47,783 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:22:47,787 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:22:48,351 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:22:48,355 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:22:48,501 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:22:48,502 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:22:48,508 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:22:48,508 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:27:03,690 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:27:03,841 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:27:03,877 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:27:04,152 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:27:04,714 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:27:04,716 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:27:04,720 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:27:04,720 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:27:06,013 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:27:06,047 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:27:06,047 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:27:06,048 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:27:06,049 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:27:12,958 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:27:13,080 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:27:13,300 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:27:13,844 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:27:13,845 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:27:13,846 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:27:13,846 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:27:13,847 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-07 23:27:13,847 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-07 23:27:13,857 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:28:25,201 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:28:25,287 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:28:25,488 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:28:25,747 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:28:26,184 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:28:26,186 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:28:26,187 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:28:26,187 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:28:26,189 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-07 23:28:26,189 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-07 23:28:26,193 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:36,400 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:32:37,341 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-07 23:32:37,559 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-07 23:32:37,581 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-07 23:32:37,779 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-07 23:32:37,922 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-07 23:32:38,152 [Worker-74] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-07 23:32:38,163 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-07 23:32:38,347 [Worker-75] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/dialect/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-07 23:32:38,490 [Worker-75] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:32:39,490 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:39,491 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:32:39,492 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:39,493 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:32:39,493 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-07 23:32:39,493 [Worker-75] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-07 23:32:39,502 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:41,525 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate.dialect:sqlite-dialect:jar:0.1.0 is missing, no dependency information available
+2016-11-07 23:32:41,540 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:41,541 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:32:41,561 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:41,561 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:32:42,880 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:42,880 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:32:42,884 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:42,885 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:32:57,400 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:32:57,538 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:32:58,221 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:58,222 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:32:58,226 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:58,226 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:32:58,733 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:58,733 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:32:58,735 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:32:58,735 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:40:57,310 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:40:57,430 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:40:58,075 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:40:58,077 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:40:58,078 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:40:58,078 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:40:59,320 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:40:59,322 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:40:59,329 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:40:59,329 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:40:59,785 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:40:59,785 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:40:59,786 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:40:59,786 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:44:22,090 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:44:22,274 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:44:22,303 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:44:22,382 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:44:22,917 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:44:22,944 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:44:22,945 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:44:22,946 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:44:22,946 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:44:49,992 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:44:50,458 [Worker-76] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-orm/5.2/hibernate-orm-5.2.pom
+2016-11-07 23:44:51,203 [Worker-76] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-orm/5.2/hibernate-orm-5.2.pom
+2016-11-07 23:44:51,885 [Worker-76] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm/5.2/hibernate-orm-5.2.pom
+2016-11-07 23:44:51,886 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-orm:jar:5.2 is missing, no dependency information available
+2016-11-07 23:44:52,338 [Worker-76] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-orm/5.2/hibernate-orm-5.2.jar
+2016-11-07 23:44:53,137 [Worker-76] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-orm/5.2/hibernate-orm-5.2.jar
+2016-11-07 23:44:53,691 [Worker-76] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm/5.2/hibernate-orm-5.2.jar
+2016-11-07 23:44:53,711 [Worker-76] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:44:53,841 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-orm:jar:5.2 is missing, no dependency information available
+2016-11-07 23:44:54,341 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:44:54,343 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:44:54,345 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:44:54,347 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:44:55,185 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-orm:jar:5.2 is missing, no dependency information available
+2016-11-07 23:44:55,277 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:44:55,277 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:44:55,279 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:44:55,279 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:47:35,871 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:47:36,149 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.pom
+2016-11-07 23:47:36,363 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.pom
+2016-11-07 23:47:36,957 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.pom
+2016-11-07 23:47:37,136 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.pom
+2016-11-07 23:47:37,643 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.pom
+2016-11-07 23:47:37,767 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.pom
+2016-11-07 23:47:37,790 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.pom
+2016-11-07 23:47:37,913 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.pom
+2016-11-07 23:47:38,201 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-11-07 23:47:38,337 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-11-07 23:47:38,997 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-11-07 23:47:39,116 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-11-07 23:47:39,144 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-11-07 23:47:39,237 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-11-07 23:47:39,266 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-11-07 23:47:39,389 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.pom
+2016-11-07 23:47:39,681 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-11-07 23:47:39,807 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-11-07 23:47:40,440 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-11-07 23:47:40,565 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-11-07 23:47:40,591 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-11-07 23:47:40,692 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-11-07 23:47:40,713 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-11-07 23:47:40,936 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.0/classmate-1.3.0.pom
+2016-11-07 23:47:41,176 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-11-07 23:47:41,398 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-11-07 23:47:42,064 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-11-07 23:47:42,183 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-11-07 23:47:42,196 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-11-07 23:47:42,308 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-11-07 23:47:42,319 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-11-07 23:47:42,442 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.pom
+2016-11-07 23:47:42,744 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2016-11-07 23:47:42,853 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2016-11-07 23:47:43,530 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2016-11-07 23:47:43,649 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2016-11-07 23:47:43,712 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2016-11-07 23:47:43,779 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2016-11-07 23:47:43,834 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2016-11-07 23:47:43,983 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.pom
+2016-11-07 23:47:44,232 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:44,413 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:45,028 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:45,147 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:45,219 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:45,350 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:45,534 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:45,601 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:45,915 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/groups/public/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:45,970 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2016-11-07 23:47:46,515 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public/org/jboss/weld/weld-parent/17/weld-parent-17.pom
+2016-11-07 23:47:46,735 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2016-11-07 23:47:46,854 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2016-11-07 23:47:46,973 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2016-11-07 23:47:47,335 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2016-11-07 23:47:47,410 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2016-11-07 23:47:47,459 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2016-11-07 23:47:47,582 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.pom
+2016-11-07 23:47:48,210 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2016-11-07 23:47:48,328 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2016-11-07 23:47:48,380 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2016-11-07 23:47:48,450 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2016-11-07 23:47:48,502 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2016-11-07 23:47:48,624 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta1/jboss-specs-parent-1.0.0.Beta1.pom
+2016-11-07 23:47:48,880 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2016-11-07 23:47:49,058 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2016-11-07 23:47:49,633 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2016-11-07 23:47:49,753 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2016-11-07 23:47:49,857 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2016-11-07 23:47:49,945 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2016-11-07 23:47:49,979 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2016-11-07 23:47:50,126 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5-beta-5/jboss-parent-5-beta-5.pom
+2016-11-07 23:47:50,364 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2016-11-07 23:47:50,565 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2016-11-07 23:47:51,174 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2016-11-07 23:47:51,292 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2016-11-07 23:47:51,365 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2016-11-07 23:47:51,409 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2016-11-07 23:47:51,487 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2016-11-07 23:47:51,608 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+2016-11-07 23:47:51,925 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar
+2016-11-07 23:47:52,077 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar
+2016-11-07 23:47:52,330 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-11-07 23:47:52,606 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-11-07 23:47:52,743 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2016-11-07 23:47:53,045 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2016-11-07 23:47:53,180 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2016-11-07 23:47:53,550 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2016-11-07 23:47:53,602 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2016-11-07 23:47:53,955 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2016-11-07 23:47:54,013 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/inject/javax.inject/1/javax.inject-1.jar
+2016-11-07 23:47:54,384 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/javax/inject/javax.inject/1/javax.inject-1.jar
+2016-11-07 23:47:54,988 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar
+2016-11-07 23:47:55,146 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar
+2016-11-07 23:47:55,787 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-11-07 23:47:56,094 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-11-07 23:47:56,572 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2016-11-07 23:47:56,864 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2016-11-07 23:47:57,378 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2016-11-07 23:47:57,673 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2016-11-07 23:47:58,151 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2016-11-07 23:47:58,459 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2016-11-07 23:47:58,913 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/inject/javax.inject/1/javax.inject-1.jar
+2016-11-07 23:47:59,034 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar
+2016-11-07 23:47:59,252 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/javax/inject/javax.inject/1/javax.inject-1.jar
+2016-11-07 23:47:59,375 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar
+2016-11-07 23:48:01,435 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar
+2016-11-07 23:48:01,561 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-11-07 23:48:01,723 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-11-07 23:48:01,848 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2016-11-07 23:48:01,977 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2016-11-07 23:48:02,100 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2016-11-07 23:48:02,224 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2016-11-07 23:48:02,345 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2016-11-07 23:48:02,467 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2016-11-07 23:48:02,589 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2016-11-07 23:48:02,743 [Worker-79] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2016-11-07 23:48:02,941 [Worker-79] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:48:03,215 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:03,215 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:48:03,216 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:03,216 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:05,582 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:05,582 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:48:05,590 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:05,590 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:06,835 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:06,835 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:48:06,836 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:06,837 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:48:09,151 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:09,151 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:48:09,156 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:09,157 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:10,930 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:10,931 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:48:10,933 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:10,933 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:12,628 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:12,629 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:48:12,632 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:12,632 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:14,429 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:14,429 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:48:14,432 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:14,433 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:15,772 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.2.4.Final/hibernate-core-5.2.4.Final.jar
+2016-11-07 23:48:15,903 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-11-07 23:48:15,936 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:15,937 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:48:15,941 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:15,943 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:16,254 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar
+2016-11-07 23:48:16,385 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2016-11-07 23:48:16,542 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar
+2016-11-07 23:48:16,660 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2016-11-07 23:48:16,779 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.0.Beta1/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar
+2016-11-07 23:48:16,896 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2016-11-07 23:48:17,015 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+2016-11-07 23:48:17,132 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2016-11-07 23:48:17,249 [Worker-78] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar
+2016-11-07 23:48:17,753 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:17,753 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:48:17,757 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:17,757 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:38,639 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:48:38,772 [Worker-78] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:48:39,411 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:39,412 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:48:39,416 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:39,416 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:48:39,908 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:39,909 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:48:39,910 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:39,910 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:48:44,670 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:44,670 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-07 23:48:44,681 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:48:44,681 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:50:49,579 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:50:50,136 [Worker-81] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-orm/5.2.4/hibernate-orm-5.2.4.pom
+2016-11-07 23:50:50,904 [Worker-81] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-orm/5.2.4/hibernate-orm-5.2.4.pom
+2016-11-07 23:50:51,606 [Worker-81] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm/5.2.4/hibernate-orm-5.2.4.pom
+2016-11-07 23:50:51,607 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-orm:jar:5.2.4 is missing, no dependency information available
+2016-11-07 23:50:52,628 [Worker-81] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-orm/5.2.4/hibernate-orm-5.2.4.jar
+2016-11-07 23:50:53,415 [Worker-81] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-orm/5.2.4/hibernate-orm-5.2.4.jar
+2016-11-07 23:50:53,896 [Worker-81] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm/5.2.4/hibernate-orm-5.2.4.jar
+2016-11-07 23:50:53,909 [Worker-81] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:50:54,000 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-orm:jar:5.2.4 is missing, no dependency information available
+2016-11-07 23:50:54,419 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:50:54,421 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:50:54,423 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:50:54,423 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:50:54,675 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.hibernate:hibernate-orm:jar:5.2.4 is missing, no dependency information available
+2016-11-07 23:50:54,737 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:50:54,737 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:50:54,737 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:50:54,737 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:54:16,345 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:54:16,631 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.pom
+2016-11-07 23:54:16,829 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.pom
+2016-11-07 23:54:17,424 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.pom
+2016-11-07 23:54:17,594 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.pom
+2016-11-07 23:54:18,347 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.pom
+2016-11-07 23:54:18,386 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.pom
+2016-11-07 23:54:18,544 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.pom
+2016-11-07 23:54:18,584 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.pom
+2016-11-07 23:54:19,032 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.jar
+2016-11-07 23:54:19,150 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.jar
+2016-11-07 23:54:19,818 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.jar
+2016-11-07 23:54:19,921 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.jar
+2016-11-07 23:54:19,944 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.jar
+2016-11-07 23:54:19,955 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:54:20,084 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-orm-modules/5.2.2.Final/hibernate-orm-modules-5.2.2.Final.jar
+2016-11-07 23:54:20,667 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:54:20,672 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-07 23:54:20,675 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:54:20,675 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-07 23:54:21,495 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:54:21,496 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:54:21,497 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:54:21,497 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-07 23:54:36,715 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-07 23:54:36,826 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-07 23:54:36,845 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:54:36,942 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:54:37,608 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.escribo:bookstore-common:jar:1.0.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-11-07 23:54:37,720 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:54:37,720 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-07 23:54:37,721 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-07 23:54:37,722 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:03:27,920 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-08 00:03:28,422 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/com/applerao/hibernatesqlite/1.0/hibernatesqlite-1.0.pom
+2016-11-08 00:03:29,250 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/com/applerao/hibernatesqlite/1.0/hibernatesqlite-1.0.pom
+2016-11-08 00:03:30,050 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/com/applerao/hibernatesqlite/1.0/hibernatesqlite-1.0.pom
+2016-11-08 00:03:30,705 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/applerao/hibernatesqlite/1.0/hibernatesqlite-1.0.pom
+2016-11-08 00:03:30,705 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.applerao:hibernatesqlite:jar:1.0 is missing, no dependency information available
+2016-11-08 00:03:31,257 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/com/applerao/hibernatesqlite/1.0/hibernatesqlite-1.0.jar
+2016-11-08 00:03:32,008 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/com/applerao/hibernatesqlite/1.0/hibernatesqlite-1.0.jar
+2016-11-08 00:03:33,245 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/com/applerao/hibernatesqlite/1.0/hibernatesqlite-1.0.jar
+2016-11-08 00:03:33,768 [Worker-84] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/applerao/hibernatesqlite/1.0/hibernatesqlite-1.0.jar
+2016-11-08 00:03:33,784 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-08 00:03:33,914 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.applerao:hibernatesqlite:jar:1.0 is missing, no dependency information available
+2016-11-08 00:03:34,379 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:03:34,381 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 00:03:34,382 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:03:34,382 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:03:36,760 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.applerao:hibernatesqlite:jar:1.0 is missing, no dependency information available
+2016-11-08 00:03:36,823 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:03:36,823 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:03:36,824 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:03:36,825 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:03:57,498 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.applerao:hibernatesqlite:jar:1.0 is missing, no dependency information available
+2016-11-08 00:03:57,563 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:03:57,563 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 00:03:57,572 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:03:57,572 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:08:05,644 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-08 00:08:06,140 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 00:08:06,929 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 00:08:08,172 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 00:08:08,831 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 00:08:08,955 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 00:08:09,430 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 00:08:10,181 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 00:08:10,761 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 00:08:10,888 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 00:08:11,013 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 00:08:11,081 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-08 00:08:11,288 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:08:11,289 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 00:08:11,290 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:08:11,290 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:08:13,777 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-08 00:08:14,062 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:08:14,063 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 00:08:14,065 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:08:14,065 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:08:16,845 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:08:16,845 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:08:16,846 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:08:16,846 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:11:01,967 [Worker-87] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-08 00:11:02,656 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:02,656 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:11:02,657 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:02,657 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:11:02,658 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-08 00:11:02,658 [Worker-87] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-08 00:11:02,662 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:04,311 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-08 00:11:04,837 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.pom
+2016-11-08 00:11:05,610 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.pom
+2016-11-08 00:11:06,207 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.pom
+2016-11-08 00:11:06,999 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.pom
+2016-11-08 00:11:07,177 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.pom
+2016-11-08 00:11:07,593 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/xerial-project/1.0/xerial-project-1.0.pom
+2016-11-08 00:11:08,353 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/xerial/xerial-project/1.0/xerial-project-1.0.pom
+2016-11-08 00:11:09,066 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/xerial/xerial-project/1.0/xerial-project-1.0.pom
+2016-11-08 00:11:09,181 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/xerial-project/1.0/xerial-project-1.0.pom
+2016-11-08 00:11:09,293 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/xerial-project/1.0/xerial-project-1.0.pom
+2016-11-08 00:11:09,739 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/xerial/1/xerial-1.pom
+2016-11-08 00:11:10,490 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/xerial/xerial/1/xerial-1.pom
+2016-11-08 00:11:11,069 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/xerial/xerial/1/xerial-1.pom
+2016-11-08 00:11:11,182 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/xerial/1/xerial-1.pom
+2016-11-08 00:11:11,292 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/xerial/1/xerial-1.pom
+2016-11-08 00:11:11,717 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.jar
+2016-11-08 00:11:12,471 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.jar
+2016-11-08 00:11:13,090 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.jar
+2016-11-08 00:11:13,431 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.jar
+2016-11-08 00:11:14,671 [Worker-85] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.5.9-universal/sqlite-jdbc-3.5.9-universal.jar
+2016-11-08 00:11:14,767 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-08 00:11:15,237 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:15,237 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 00:11:15,238 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:15,239 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:11:16,161 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:16,161 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:11:16,164 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:16,164 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:11:23,993 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:23,994 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 00:11:23,996 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:11:23,996 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:12:01,553 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:12:01,553 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 00:12:01,555 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:12:01,555 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:15:27,765 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-08 00:15:27,866 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-08 00:15:28,574 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:15:28,577 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 00:15:28,578 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:15:28,579 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:15:29,011 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:15:29,011 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:15:29,012 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:15:29,012 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:15:30,636 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:15:30,637 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 00:15:30,647 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:15:30,647 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:17:32,901 [Worker-87] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-08 00:17:32,998 [Worker-87] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-08 00:17:33,526 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:17:33,527 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 00:17:33,529 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:17:33,530 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:17:33,989 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:17:33,990 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:17:33,990 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:17:33,990 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:17:36,693 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:17:36,694 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 00:17:36,708 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:17:36,708 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:20:07,774 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:20:07,775 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 00:20:07,776 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:20:07,776 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:20:20,351 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:20:20,351 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 00:20:20,354 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:20:20,354 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:20:36,988 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:20:36,989 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 00:20:36,990 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:20:36,990 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:23:20,848 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:23:20,848 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:23:20,853 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:23:20,854 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:25:16,402 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-common/pom.xml.
+2016-11-08 00:25:16,916 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 00:25:17,699 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 00:25:18,291 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 00:25:19,103 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 00:25:19,225 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 00:25:19,664 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 00:25:20,459 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 00:25:21,667 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 00:25:21,839 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 00:25:23,827 [Worker-93] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 00:25:23,870 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/lab/escribo/bookstore-web/pom.xml.
+2016-11-08 00:25:24,766 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:25:24,780 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 00:25:24,782 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:25:24,782 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:25:35,378 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:25:35,378 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 00:25:35,397 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:25:35,397 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:25:36,795 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:25:36,795 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:25:36,796 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:25:36,796 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:26:08,365 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:26:08,365 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 00:26:08,367 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:26:08,367 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:27:44,669 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:27:44,669 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/main/resources
+2016-11-08 00:27:44,670 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:27:44,670 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-web/src/test/resources
+2016-11-08 00:39:04,452 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:39:04,452 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-11-08 00:39:04,458 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:39:04,459 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 00:40:00,284 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:40:00,284 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 00:40:00,286 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 00:40:00,286 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
