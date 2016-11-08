@@ -33,12 +33,11 @@ public class SecurityDataProvider extends DataProviderImpl implements ISecurityD
 		criteria.add(
 				Restrictions.and(
 						Restrictions.eq(FieldName.USER_NAME.getValue(), userName),
-						Restrictions.eq(FieldName.DELETED.getValue(), false),
+						Restrictions.eq(FieldName.DELETED.getValue(),false),
 						Restrictions.eq(FieldName.ENABLED.getValue(), true)
 				)
 		);		
-		criteria.addOrder(Order.desc(FieldName.CREATED_AT.getValue()));
-		criteria.setMaxResults(2);		
+		criteria.setMaxResults(1);		
 		criteria.setResultTransformer(Criteria.DISTINCT_ROOT_ENTITY);
 		users = criteria.list();
 		if(AuxiliaryFunctions.isNullOrEmpty(users)){
@@ -62,7 +61,7 @@ public class SecurityDataProvider extends DataProviderImpl implements ISecurityD
 		criteria.setMaxResults(2);
 		criteria.setResultTransformer(Criteria.DISTINCT_ROOT_ENTITY);
 		List<Object> result = criteria.list();
-		if (result != null) {
+		if (result != null && !result.isEmpty()) {
 			if (result.size() == 2) {
 				return (IUserAccessData) result.get(1);
 			} else {

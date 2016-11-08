@@ -26,12 +26,9 @@ public class AbstractModel implements IModel {
 	private boolean enabled;
 	
 	private boolean deleted;
-	
-	private boolean system;
-
 
 	@Id
-	@Column(name = "id", columnDefinition="bigint(20)", nullable=false)
+	@Column(name = "id", columnDefinition="bigint", nullable=false)
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Override
 	public Long getId() {
@@ -43,7 +40,7 @@ public class AbstractModel implements IModel {
 		this.id = id;
 	}
 
-	@Column(name = "created_at", columnDefinition="timestamp default current_timestamp")
+	@Column(name = "created_at", columnDefinition="datetime")
 	@Temporal(TemporalType.TIMESTAMP)
 	@Override
 	public Date getCreatedAt() {
@@ -55,7 +52,7 @@ public class AbstractModel implements IModel {
 		this.createdAt = createdAt;
 	}
 
-	@Column(name = "updated_at", columnDefinition="timestamp default current_timestamp")
+	@Column(name = "updated_at", columnDefinition="datetime")
 	@Temporal(TemporalType.TIMESTAMP)
 	@Override
 	public Date getUpdatedAt() {
@@ -67,7 +64,7 @@ public class AbstractModel implements IModel {
 		this.updatedAt = updatedAt;
 	}
 
-	@Column(name = "is_enabled", columnDefinition="tinyint(1) not null default 1")
+	@Column(name = "enabled", columnDefinition="tinyint(1) not null default 1")
 	@Override
 	public boolean isEnabled() {
 		return this.enabled;
@@ -85,7 +82,7 @@ public class AbstractModel implements IModel {
 		this.enabled = enabled;
 	}
 	
-	@Column(name = "is_deleted", columnDefinition="tinyint(1) not null default 1")
+	@Column(name = "deleted", columnDefinition="tinyint(1) not null default 1")
 	@Override
 	public boolean isDeleted() {
 		return this.deleted;
@@ -103,22 +100,7 @@ public class AbstractModel implements IModel {
 	}
 	
 	
-	@Column(name = "is_system", columnDefinition="tinyint(1) not null default 0")
-	@Override
-	public boolean isSystem() {
-		return this.system;
-	}
-	
-	@Transient
-	@Override
-	public boolean getSystem() {
-		return isSystem();		
-	}	
-	
-	@Override
-	public void setSystem(boolean deleted) {
-		this.deleted = deleted;
-	}
+
 
 	@Override
 	public IModel cloneModel() {

@@ -84,10 +84,6 @@ public class SecurityBusinessObject extends BusinessObjectImpl<IUser> implements
 		if (userAccessData.getIp() == null) {
 			userAccessData.setIp("0.0.0.0");
 		}
-		userAccessData.setDeleted(false);
-		userAccessData.setEnabled(true);
-		userAccessData.setCreatedAt(new Date());
-		userAccessData.setUpdatedAt(new Date());
 		securityDataProvider.saveOrUpdate(userAccessData);	
 	}
 	

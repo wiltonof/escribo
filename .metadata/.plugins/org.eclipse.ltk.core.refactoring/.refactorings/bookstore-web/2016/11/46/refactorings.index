@@ -1,3 +1,11 @@
 1478568075478	Move compilation unit
 1478568085286	Move compilation unit
 1478568094923	Delete elements
+1478607436170	Move 'download.jpg' to 'img'
+1478607444009	Rename resource 'download.jpg'
+1478607797322	Rename resource 'resource'
+1478607880649	Rename resource 'login-1.css'
+1478611094284	Copy file
+1478611110943	Rename resource 'login.xhtml'
+1478611166668	Rename resource 'app'
+1478631766402	Rename resource 'index.xhtml'

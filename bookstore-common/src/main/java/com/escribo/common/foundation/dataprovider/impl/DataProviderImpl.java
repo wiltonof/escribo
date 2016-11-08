@@ -2,7 +2,6 @@ package com.escribo.common.foundation.dataprovider.impl;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -47,11 +46,8 @@ public abstract class DataProviderImpl implements IDataProvider {
 		try{
 			
 			if (((IModel) entity).getId() == null) {
-				((IModel) entity).setCreatedAt(Calendar.getInstance().getTime());
-				((IModel) entity).setUpdatedAt(Calendar.getInstance().getTime());
 				getSessionFactory().getCurrentSession().save(entity);
 			} else {
-				((IModel) entity).setUpdatedAt(Calendar.getInstance().getTime());
 				entity = getSessionFactory().getCurrentSession().merge(entity);
 			}
 		}catch(Exception e){
@@ -82,9 +78,7 @@ public abstract class DataProviderImpl implements IDataProvider {
 
 	@Override
 	public void delete(Object entity) {
-		((IModel) entity).setDeleted(true);
-		saveOrUpdate(entity); //Deleção lógica
-		//getSessionFactory().getCurrentSession().delete(entity);
+		getSessionFactory().getCurrentSession().delete(entity);
 	}
 
 	@Override

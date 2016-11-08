@@ -3,17 +3,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
     xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facesconfig_2_0.xsd" 
     version="2.0">
+    
     <application>
         <el-resolver>org.springframework.web.jsf.el.SpringBeanFacesELResolver</el-resolver>
         <resource-bundle>
-            <base-name>i18n.messages</base-name>
-            <var>messages</var>
+            <base-name>/resources/i18n/messages</base-name>
+            <var>msg</var>
         </resource-bundle>
         <locale-config>
             <default-locale>pt</default-locale>
             <supported-locale>pt</supported-locale>
         </locale-config>
     </application>
+    
     <factory>
         <exception-handler-factory>com.escribo.common.foundation.exception.GeneralExceptionHandlerFactory</exception-handler-factory>
     </factory>

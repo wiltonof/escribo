@@ -63,44 +63,44 @@ public class AppConf {
         sessionFactory.setHibernateProperties(hibernateProperties());
         return sessionFactory;
      }
-//     
-//    @Bean
-//    public DataSource dataSource2() {
-//    	System.out.println("dataSource2");
-//        DriverManagerDataSource dataSource = new DriverManagerDataSource();
-//        dataSource.setDriverClassName(environment.getRequiredProperty("database.driverClassName"));
-//        dataSource.setUrl(environment.getRequiredProperty("database.url"));
-//        dataSource.setUsername(environment.getRequiredProperty("database.username"));
-//        dataSource.setPassword(environment.getRequiredProperty("database.password"));
-//        return dataSource;
-//    }
-    
+     
     @Bean
     public DataSource dataSource() {
-    	System.out.println("dataSource");
-    	ComboPooledDataSource dataSource = new ComboPooledDataSource();
-        try {
-			dataSource.setDriverClass(environment.getRequiredProperty("database.driverClassName"));
-		} catch (IllegalStateException e) {
-			e.printStackTrace();
-		} catch (PropertyVetoException e) {
-			e.printStackTrace();
-		}
-        dataSource.setJdbcUrl(environment.getRequiredProperty("database.url"));
-        dataSource.setUser(environment.getRequiredProperty("database.username"));
+    	System.out.println("dataSource2");
+        DriverManagerDataSource dataSource = new DriverManagerDataSource();
+        dataSource.setDriverClassName(environment.getRequiredProperty("database.driverClassName"));
+        dataSource.setUrl(environment.getRequiredProperty("database.url"));
+        dataSource.setUsername(environment.getRequiredProperty("database.username"));
         dataSource.setPassword(environment.getRequiredProperty("database.password"));
-        
-  /*      dataSource.setIdleConnectionTestPeriod(Integer.parseInt(environment.getRequiredProperty("c3p0.idle_test_period")));
-        dataSource.setMinPoolSize(Integer.parseInt(environment.getRequiredProperty("c3p0.min_size")));
-        dataSource.setMaxPoolSize(Integer.parseInt(environment.getRequiredProperty("c3p0.max_size")));
-        dataSource.setInitialPoolSize(Integer.parseInt(environment.getRequiredProperty("c3p0.initialPoolSize")));
-        dataSource.setTestConnectionOnCheckout(Boolean.getBoolean(environment.getRequiredProperty("c3p0.testConnectionsOnCheckout")));
-        dataSource.setAcquireRetryDelay(Integer.parseInt(environment.getRequiredProperty("c3p0.acquireRetryDelay")));
-        dataSource.setAcquireIncrement(Integer.parseInt(environment.getRequiredProperty("c3p0.acquire_increment")));
-        dataSource.setMaxStatements(Integer.parseInt(environment.getRequiredProperty("c3p0.max_statements")));
-        dataSource.setMaxStatementsPerConnection(Integer.parseInt(environment.getRequiredProperty("c3p0.max_statements_per_connection"))); */
-    	return dataSource;
+        return dataSource;
     }
+    
+//    @Bean
+//    public DataSource dataSource() {
+//    	System.out.println("dataSource");
+//    	ComboPooledDataSource dataSource = new ComboPooledDataSource();
+//        try {
+//			dataSource.setDriverClass(environment.getRequiredProperty("database.driverClassName"));
+//		} catch (IllegalStateException e) {
+//			e.printStackTrace();
+//		} catch (PropertyVetoException e) {
+//			e.printStackTrace();
+//		}
+//        dataSource.setJdbcUrl(environment.getRequiredProperty("database.url"));
+//        dataSource.setUser(environment.getRequiredProperty("database.username"));
+//        dataSource.setPassword(environment.getRequiredProperty("database.password"));
+//        
+//  /*      dataSource.setIdleConnectionTestPeriod(Integer.parseInt(environment.getRequiredProperty("c3p0.idle_test_period")));
+//        dataSource.setMinPoolSize(Integer.parseInt(environment.getRequiredProperty("c3p0.min_size")));
+//        dataSource.setMaxPoolSize(Integer.parseInt(environment.getRequiredProperty("c3p0.max_size")));
+//        dataSource.setInitialPoolSize(Integer.parseInt(environment.getRequiredProperty("c3p0.initialPoolSize")));
+//        dataSource.setTestConnectionOnCheckout(Boolean.getBoolean(environment.getRequiredProperty("c3p0.testConnectionsOnCheckout")));
+//        dataSource.setAcquireRetryDelay(Integer.parseInt(environment.getRequiredProperty("c3p0.acquireRetryDelay")));
+//        dataSource.setAcquireIncrement(Integer.parseInt(environment.getRequiredProperty("c3p0.acquire_increment")));
+//        dataSource.setMaxStatements(Integer.parseInt(environment.getRequiredProperty("c3p0.max_statements")));
+//        dataSource.setMaxStatementsPerConnection(Integer.parseInt(environment.getRequiredProperty("c3p0.max_statements_per_connection"))); */
+//    	return dataSource;
+//    }
      
     private Properties hibernateProperties() {
         Properties properties = new Properties();

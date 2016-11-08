@@ -755,3 +755,757 @@
 2016-11-08 00:40:00,284 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-11-08 00:40:00,286 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-11-08 00:40:00,286 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/lab/escribo/bookstore-common/src/test/resources
+2016-11-08 08:41:43,092 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-common/pom.xml.
+2016-11-08 08:41:43,954 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 08:41:45,799 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 08:41:47,240 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 08:41:48,522 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 08:41:48,722 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.pom
+2016-11-08 08:41:49,344 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 08:41:50,011 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 08:41:50,893 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 08:41:51,114 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 08:41:51,297 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.pom
+2016-11-08 08:41:51,739 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 08:41:52,149 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 08:41:52,801 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 08:41:53,397 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 08:41:54,936 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 08:41:55,814 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 08:41:56,328 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 08:41:56,489 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/kemitix/sqlite-dialect/0.1.0/sqlite-dialect-0.1.0.jar
+2016-11-08 08:41:56,692 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 08:41:58,799 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xerial/sqlite-jdbc/3.15.1/sqlite-jdbc-3.15.1.jar
+2016-11-08 08:41:59,604 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:41:59,625 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 08:41:59,636 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:41:59,637 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 08:42:00,462 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-common/pom.xml.
+2016-11-08 08:42:01,022 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-web/pom.xml.
+2016-11-08 08:42:04,597 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:42:04,612 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 08:42:04,631 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:42:04,632 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 08:42:05,810 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:42:05,811 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 08:42:05,814 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:42:05,814 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 08:42:49,681 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-08 08:42:50,337 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-common/pom.xml.
+2016-11-08 08:42:50,643 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-web/pom.xml.
+2016-11-08 08:42:52,300 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/main/java
+2016-11-08 08:42:52,301 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore-common/src/main/resources
+2016-11-08 08:42:52,301 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/test/java
+2016-11-08 08:42:52,418 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/main/java
+2016-11-08 08:42:52,418 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/test/java
+2016-11-08 08:42:53,142 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bookstore-web
+2016-11-08 08:42:53,146 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2016-11-08 08:42:54,133 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:42:54,142 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2016-11-08 08:42:54,165 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:42:54,165 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 08:42:54,825 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:42:54,825 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 08:42:54,827 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:42:54,827 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 08:42:54,827 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-08 08:42:54,829 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-08 08:42:54,837 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:58:24,036 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:58:24,050 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 08:58:24,052 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:58:24,052 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 08:59:21,281 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:59:21,282 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 08:59:21,286 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:59:21,286 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 08:59:21,362 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:59:21,363 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 08:59:21,364 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:59:21,365 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 08:59:52,719 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:59:52,720 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 08:59:52,729 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 08:59:52,729 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:00:03,486 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:00:03,487 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:00:03,495 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:00:03,495 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:00:03,955 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:00:03,955 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:00:03,956 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:00:03,956 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:00:24,126 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:00:24,126 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:00:24,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:00:24,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:01:50,708 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:01:50,711 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:01:50,714 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:01:50,715 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:02:19,215 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:02:19,216 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:02:19,217 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:02:19,218 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:02:58,617 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/springframework/security/spring-security-core/3.2.7.RELEASE/spring-security-core-3.2.7.RELEASE-sources.jar
+2016-11-08 09:02:59,980 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/springframework/security/spring-security-core/3.2.7.RELEASE/spring-security-core-3.2.7.RELEASE-sources.jar
+2016-11-08 09:03:01,346 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/springframework/security/spring-security-core/3.2.7.RELEASE/spring-security-core-3.2.7.RELEASE-sources.jar
+2016-11-08 09:03:02,374 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/3.2.7.RELEASE/spring-security-core-3.2.7.RELEASE-sources.jar
+2016-11-08 09:03:02,988 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/3.2.7.RELEASE/spring-security-core-3.2.7.RELEASE-sources.jar
+2016-11-08 09:03:03,116 [Worker-23] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:3.2.7.RELEASE
+2016-11-08 09:03:03,322 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:03:03,323 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 09:03:03,324 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:03:03,324 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:03:19,680 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:03:19,681 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:03:19,682 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:03:19,682 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:04:32,447 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:04:32,448 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:04:32,449 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:04:32,449 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:04:32,593 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:04:32,593 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:04:32,597 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:04:32,597 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:04:54,886 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:04:54,886 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:04:54,889 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:04:54,890 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:05:07,203 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:05:07,204 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:05:07,206 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:05:07,206 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:05:26,132 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:05:26,132 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:05:26,134 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:05:26,134 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:05:47,197 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:05:47,199 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:05:47,202 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:05:47,202 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:05:54,088 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:05:54,088 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 09:05:54,090 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:05:54,090 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 09:07:50,559 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:07:50,559 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:07:50,563 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:07:50,563 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:16:43,619 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:16:43,619 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:16:43,621 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:16:43,621 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:16:52,255 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:16:52,266 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:16:52,268 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:16:52,268 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:16:58,176 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:16:58,176 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:16:58,185 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:16:58,186 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:17:04,079 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:17:04,079 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:17:04,081 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:17:04,081 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:17:09,670 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:17:09,670 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:17:09,672 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:17:09,672 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:17:16,513 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:17:16,514 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:17:16,517 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:17:16,518 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:17:24,205 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:17:24,205 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:17:24,206 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:17:24,206 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:18:07,786 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:18:07,786 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:18:07,787 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:18:07,787 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:18:32,456 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:18:32,457 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:18:32,458 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:18:32,458 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:20:33,489 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:20:33,489 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:20:33,490 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:20:33,491 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:22:24,889 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:22:24,889 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:22:24,890 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:22:24,890 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:23:17,597 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:23:17,598 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:23:17,603 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:23:17,604 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:24:40,791 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:24:40,791 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:24:40,793 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:24:40,793 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:25:16,227 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:25:16,227 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:25:16,228 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:25:16,228 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:27:31,268 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:27:31,268 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:27:31,270 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:27:31,271 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:28:40,034 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:28:40,034 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:28:40,040 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:28:40,040 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:29:47,814 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:29:47,814 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:29:47,825 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:29:47,825 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:29:58,604 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:29:58,604 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:29:58,605 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:29:58,605 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:40:11,630 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:40:11,630 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:40:11,631 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:40:11,631 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:40:58,957 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:40:58,958 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:40:58,958 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:40:58,958 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 09:47:49,804 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:47:49,804 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 09:47:49,805 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 09:47:49,805 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:00:12,796 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:00:12,796 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:00:12,797 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:00:12,797 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:00:26,549 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:00:26,549 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:00:26,550 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:00:26,551 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:04:11,048 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:04:11,072 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 10:04:11,110 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:04:11,110 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 10:04:44,900 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:04:44,901 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:04:44,907 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:04:44,907 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:05:05,291 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:05:05,292 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 10:05:05,293 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:05:05,293 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 10:06:53,201 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:06:53,201 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:06:53,202 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:06:53,202 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:09:48,755 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:09:48,755 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:09:48,756 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:09:48,757 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:10:04,009 [Worker-53] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-08 10:10:06,254 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-common/pom.xml.
+2016-11-08 10:10:06,698 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-web/pom.xml.
+2016-11-08 10:10:08,278 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/main/java
+2016-11-08 10:10:08,278 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore-common/src/main/resources
+2016-11-08 10:10:08,279 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/test/java
+2016-11-08 10:10:08,384 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/main/java
+2016-11-08 10:10:08,384 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/test/java
+2016-11-08 10:10:09,087 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bookstore-web
+2016-11-08 10:10:09,089 [Worker-53] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-11-08 10:10:11,683 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:10:11,684 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 10:10:11,706 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:10:11,706 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 10:10:12,692 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:10:12,692 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:10:12,693 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:10:12,693 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:10:12,693 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-08 10:10:12,693 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-08 10:10:12,698 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:11:25,859 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:11:25,859 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:11:25,860 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:11:25,860 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:13:48,711 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:13:48,718 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:13:48,723 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:13:48,723 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:14:25,415 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:14:25,415 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:14:25,416 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:14:25,417 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:16:23,573 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:16:23,573 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:16:23,574 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:16:23,574 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:18:10,812 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:18:10,812 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:18:10,817 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:18:10,817 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:18:14,451 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:18:14,451 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:18:14,453 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:18:14,455 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:18:31,185 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:18:31,185 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:18:31,186 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:18:31,186 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:18:49,192 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:18:49,192 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:18:49,193 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:18:49,193 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:19:26,881 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:19:26,881 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:19:26,882 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:19:26,882 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:20:11,365 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:20:11,365 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:20:11,365 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:20:11,365 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:20:56,463 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:20:56,463 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:20:56,464 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:20:56,464 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:20:58,400 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:20:58,400 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:20:58,401 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:20:58,401 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:21:37,408 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:21:37,409 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 10:21:37,410 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:21:37,410 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 10:37:26,661 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:37:26,675 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 10:37:26,709 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:37:26,709 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 10:43:53,354 [Worker-89] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 10:43:53,371 [Worker-89] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 10:44:10,909 [Worker-89] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 10:44:10,909 [Worker-89] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 10:44:31,382 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:44:31,382 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 10:44:31,383 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:44:31,383 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 10:52:33,138 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:52:33,139 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 10:52:33,146 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:52:33,146 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 10:52:36,211 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:52:36,211 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 10:52:36,213 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:52:36,215 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 10:56:09,867 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:56:09,867 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 10:56:09,869 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 10:56:09,869 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 11:00:21,496 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:00:21,524 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 11:00:21,526 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:00:21,526 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 11:00:39,201 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 11:00:39,201 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 11:00:44,823 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:00:44,824 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 11:00:44,828 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:00:44,829 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 11:08:05,261 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:08:05,262 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-11-08 11:08:05,263 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:08:05,264 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 11:09:04,947 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:09:04,948 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2016-11-08 11:09:04,949 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:09:04,963 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 11:09:15,995 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 11:09:15,995 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 11:09:21,013 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:09:21,013 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 11:09:21,014 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:09:21,014 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 11:16:50,029 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 11:16:50,029 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 11:17:00,667 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:17:00,668 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 11:17:00,669 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:17:00,673 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 11:21:48,504 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:21:48,505 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 11:21:48,578 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:21:48,579 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 11:25:35,187 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 11:25:35,187 [Worker-119] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 11:25:42,083 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:25:42,084 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 11:25:42,087 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 11:25:42,087 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:15:03,502 [Worker-146] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/com/mchange/mchange-commons-java/0.2.12/mchange-commons-java-0.2.12-sources.jar
+2016-11-08 12:15:05,261 [Worker-146] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/com/mchange/mchange-commons-java/0.2.12/mchange-commons-java-0.2.12-sources.jar
+2016-11-08 12:15:06,225 [Worker-146] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mchange/mchange-commons-java/0.2.12/mchange-commons-java-0.2.12-sources.jar
+2016-11-08 12:15:07,513 [Worker-146] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mchange/mchange-commons-java/0.2.12/mchange-commons-java-0.2.12-sources.jar
+2016-11-08 12:15:09,258 [Worker-146] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mchange:mchange-commons-java:0.2.12
+2016-11-08 12:15:10,269 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:15:10,269 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 12:15:10,270 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:15:10,270 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 12:16:34,492 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:16:34,492 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 12:16:34,620 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:16:34,620 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:20:20,404 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:20:20,409 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 12:20:20,410 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:20:20,410 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 12:23:53,566 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:23:53,567 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:23:53,568 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:23:53,569 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:29:18,436 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:29:18,437 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 12:29:18,439 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:29:18,440 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 12:30:53,730 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:30:53,730 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 12:30:53,745 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:30:53,745 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:31:00,702 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:31:00,702 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 12:31:00,704 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:31:00,704 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:34:15,797 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:34:15,805 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:34:15,807 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:34:15,807 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:36:17,743 [Worker-172] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.primefaces.org/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE-sources.jar
+2016-11-08 12:36:18,563 [Worker-172] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://scm.umiacs.umd.edu/maven/adapt/content/repositories/releases/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE-sources.jar
+2016-11-08 12:36:19,624 [Worker-172] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://hibernate-sqlite.googlecode.com/svn/trunk/mavenrepo/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE-sources.jar
+2016-11-08 12:36:20,468 [Worker-172] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE-sources.jar
+2016-11-08 12:36:21,097 [Worker-172] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.7.RELEASE/spring-aop-4.1.7.RELEASE-sources.jar
+2016-11-08 12:36:21,559 [Worker-172] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:4.1.7.RELEASE
+2016-11-08 12:36:21,960 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:36:21,961 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 12:36:21,962 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:36:21,962 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:38:47,424 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:38:47,425 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:38:47,426 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:38:47,426 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:43:16,843 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:43:16,844 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:43:16,849 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:43:16,850 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:43:56,921 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:43:56,930 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:43:56,932 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:43:56,932 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:44:38,236 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:44:38,237 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:44:38,238 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:44:38,238 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:45:10,837 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:45:10,837 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:45:10,838 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:45:10,838 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:52:52,650 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:52:52,713 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:52:52,714 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:52:52,714 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 12:54:42,395 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:54:42,395 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 12:54:42,397 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 12:54:42,397 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:36:52,680 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:36:52,835 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:36:52,932 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:36:52,932 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:37:09,602 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:37:09,602 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:37:09,604 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:37:09,604 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:39:02,896 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:39:02,899 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:39:02,900 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:39:02,900 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:39:22,302 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:39:22,303 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:39:22,304 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:39:22,304 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:40:13,402 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:40:13,403 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:40:13,404 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:40:13,404 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:40:18,372 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:40:18,373 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:40:18,374 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:40:18,374 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:40:24,915 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:40:24,915 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:40:24,916 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:40:24,917 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:41:27,757 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:41:27,758 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:41:27,759 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:41:27,759 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:43:44,570 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:43:44,571 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:43:44,571 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:43:44,571 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:46:50,533 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:46:50,533 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:46:50,535 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:46:50,535 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:49:11,840 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:49:11,841 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:49:11,844 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:49:11,845 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:51:52,455 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:51:52,455 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:51:52,456 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:51:52,456 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:55:55,732 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:55:55,733 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 13:55:55,735 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:55:55,735 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 13:56:20,506 [Worker-219] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 13:56:20,533 [Worker-219] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 13:56:35,768 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:56:35,768 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 13:56:35,769 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 13:56:35,769 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:01:43,228 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:01:43,241 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 14:01:43,292 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:01:43,292 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:02:13,537 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:02:13,538 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 14:02:13,539 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:02:13,539 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:05:22,609 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:05:22,622 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 14:05:22,624 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:05:22,624 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:06:56,194 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:06:56,217 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:06:56,218 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:06:56,218 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:08:32,624 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:08:32,625 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:08:32,627 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:08:32,628 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:08:39,269 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:08:39,269 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:08:39,271 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:08:39,271 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:08:49,109 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:08:49,110 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:08:49,113 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:08:49,113 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:09:05,874 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:09:05,874 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:09:05,875 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:09:05,875 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:09:23,547 [Worker-226] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 14:09:23,552 [Worker-226] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 14:09:29,267 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:09:29,267 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 14:09:29,268 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:09:29,268 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:09:59,864 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:09:59,864 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-11-08 14:09:59,865 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:09:59,866 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:11:22,944 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:11:22,944 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:11:22,946 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:11:22,946 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:13:32,010 [Worker-216] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/wilton/workspace/curso/escribo/bookstore-common
+2016-11-08 14:13:32,010 [Worker-216] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-11-08 14:13:37,550 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:13:37,550 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 14:13:37,551 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:13:37,551 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:22:22,377 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:22:22,377 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:22:22,382 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:22:22,382 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:24:03,373 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:24:03,373 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:24:03,375 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:24:03,375 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:42:08,563 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:42:08,604 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:42:08,607 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:42:08,608 [Worker-242] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:46:32,979 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:46:32,979 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 14:46:32,981 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:46:32,981 [Worker-244] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 14:46:57,571 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:46:57,571 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 14:46:57,572 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:46:57,572 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 14:47:59,214 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:47:59,214 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 14:47:59,215 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:47:59,215 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 14:50:10,562 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:50:10,563 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 14:50:10,563 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:50:10,564 [Worker-241] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 14:55:04,499 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:55:04,524 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 14:55:04,529 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:55:04,530 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 14:58:03,071 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-08 14:58:04,510 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-common/pom.xml.
+2016-11-08 14:58:04,836 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-web/pom.xml.
+2016-11-08 14:58:06,520 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/main/java
+2016-11-08 14:58:06,521 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore-common/src/main/resources
+2016-11-08 14:58:06,522 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/test/java
+2016-11-08 14:58:06,644 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/main/java
+2016-11-08 14:58:06,644 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/test/java
+2016-11-08 14:58:08,165 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bookstore-web
+2016-11-08 14:58:08,168 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2016-11-08 14:58:10,878 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:58:10,925 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 14:58:11,028 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:58:11,029 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 14:58:12,569 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:58:12,570 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 14:58:12,571 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 14:58:12,571 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 14:58:12,572 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-08 14:58:12,606 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-08 14:58:12,635 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:10:03,244 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:10:03,256 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:10:03,258 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:10:03,258 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:19:17,637 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:19:17,638 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:19:17,642 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:19:17,643 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:20:43,681 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:20:43,682 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:20:43,684 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:20:43,684 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:24:36,317 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:24:36,318 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:24:36,320 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:24:36,320 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:24:38,863 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:24:38,864 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:24:38,865 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:24:38,865 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:24:44,984 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:24:44,985 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:24:44,988 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:24:44,988 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:25:29,391 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:25:29,392 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:25:29,397 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:25:29,397 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:29:52,830 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:29:52,831 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:29:52,833 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:29:52,833 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:30:35,659 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:30:35,660 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:30:35,661 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:30:35,662 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:51:09,608 [Worker-51] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-11-08 15:51:10,254 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-common:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-common/pom.xml.
+2016-11-08 15:51:10,392 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.escribo:bookstore-web:1.0.0 @ /home/wilton/workspace/curso/escribo/bookstore-web/pom.xml.
+2016-11-08 15:51:11,079 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/main/java
+2016-11-08 15:51:11,080 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bookstore-common/src/main/resources
+2016-11-08 15:51:11,080 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-common/src/test/java
+2016-11-08 15:51:11,148 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/main/java
+2016-11-08 15:51:11,148 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bookstore-web/src/test/java
+2016-11-08 15:51:12,411 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bookstore-web
+2016-11-08 15:51:12,413 [Worker-51] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-11-08 15:51:13,466 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:51:13,467 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 15:51:13,481 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:51:13,481 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 15:51:14,325 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:51:14,325 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 15:51:14,328 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 15:51:14,328 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 15:51:14,328 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bookstore-web
+2016-11-08 15:51:14,328 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bookstore-web
+2016-11-08 15:51:14,351 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:02:46,790 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:02:46,790 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 16:02:46,791 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:02:46,791 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 16:03:13,408 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:03:13,408 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 16:03:13,410 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:03:13,410 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 16:08:48,490 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:08:48,490 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 16:08:48,491 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:08:48,492 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 16:10:00,572 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:10:00,573 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 16:10:00,574 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:10:00,574 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 16:24:47,880 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:24:47,882 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2016-11-08 16:24:47,884 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:24:47,884 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-common/src/test/resources
+2016-11-08 16:26:33,563 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:26:33,563 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 16:26:33,563 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:26:33,563 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 16:26:49,481 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:26:49,481 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 16:26:49,482 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:26:49,483 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 16:36:51,705 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:36:51,705 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 16:36:51,706 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:36:51,707 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 16:58:19,809 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:58:19,810 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 16:58:19,819 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 16:58:19,819 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:00:13,072 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:00:13,072 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:00:13,074 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:00:13,074 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:08:54,440 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:08:54,440 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:08:54,441 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:08:54,441 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:08:56,539 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:08:56,543 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:08:56,545 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:08:56,545 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:10:56,413 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:10:56,413 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:10:56,417 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:10:56,417 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:13:35,252 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:13:35,252 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:13:35,256 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:13:35,257 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:13:45,224 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:13:45,224 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:13:45,228 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:13:45,228 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:15:08,213 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:15:08,214 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:15:08,214 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:15:08,214 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:18:38,075 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:18:38,075 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:18:38,076 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:18:38,076 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
+2016-11-08 17:53:53,651 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:53:53,652 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/main/resources
+2016-11-08 17:53:53,653 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 17:53:53,653 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/wilton/workspace/curso/escribo/bookstore-web/src/test/resources
