@@ -12,8 +12,73 @@
 <h:outputStylesheet library="css" name="login.css" />
 
 </h:head> 
-<body> 
-<h:outputText value="Teste main" />
+	<h:body>
+	<h:form>
+		    <p:outputPanel deferred="true">
+		    		<p:commandButton styleClass="new theme-bg2"   value="Novo Livro" update=":form:tab :form:save"  
+						process="@this" ajax="true" global="true" async="true" action="#{displayMB.newObject()}" oncomplete="edit()" rendered="#{securityMB.hasRole('CRIAR_PONTOS')}"/>
+						
+					<p:dataTable id="dataTable" var="object" styleClass="table-default-theme" rowKey="#{object.id}" 
+						currentPageReportTemplate="{currentPage} #{'de'} {totalPages}"
+						value="#{ebookMB.objectDataModel}" paginator="true" rows="15"
+						paginatorTemplate="{CurrentPageReport}  {FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
+						rowsPerPageTemplate="15,30,50,100,200" sortMode="single"
+						emptyMessage="Nenhum registro de livro foi encontrato"
+						scrollable="true" scrollHeight="350"
+						selection="#{ebookMB.selectedObject}" selectionMode="single"
+						widgetVar="dataTableWV" sortBy="#{object.createdAt}"
+						sortOrder="descending" lazy="true" filterDelay="300"
+						resizableColumns="true" paginatorPosition="bottom" >
+						
+<!-- 						<p:ajax event="rowSelect" update=":form:dataTable :form:tab :form:save"	listener="#{displayMB.resetDialog()}" /> -->
+						
+						<f:facet name="header">
+							<h:panelGroup>
+								<h:outputText value="Lista de Livros" />
+							</h:panelGroup>
+						</f:facet>	
+						
+						<p:column headerText="Titulo"  style="width: 80px; text-align: center">
+							<h:outputText value="#{object.title}" />
+						</p:column>	
+						
+						<p:column headerText="Autor" 	style=" text-align: center">
+							<h:outputText value="#{object.autor}" />
+							
+						</p:column>	
+						<p:column headerText="Nível Escolar" 	style=" text-align: center">
+							<h:outputText value="#{object.schoolLevel}" />						
+						</p:column>	
+						<p:column headerText="Ano de Lançamento" 	style=" text-align: center">
+							<h:outputText value="#{object.year}" />						
+						</p:column>						
+						<p:column headerText="Edição" 	style=" text-align: center">
+							<h:outputText value="#{object.edition}" />						
+						</p:column>		
+								
+						
+		
+						<p:column headerText="#{messages.label_actions}" exportable="false" style="width: 150px; text-align: center">
+							<p:toolbarGroup align="left"  rendered="#{object.id == displayMB.selectedObject.id}" >						
 
-</body> 
+								<p:commandButton icon="fa fa-sign-out" title="Remover Login do Ponto"  
+									process="@this" ajax="true" global="true" async="true"  update=":form:dataTable :form:tab :form:save" rendered="#{(securityMB.hasRole('EDITAR_LIVRO') and (ebookMB.userSessions.size() > 0)) ? true : false}" oncomplete="PF('confDialogAcesso').show()" />
+								
+								<p:commandButton icon="ui-icon-pencil" title="#{messages.label_edit}" actionListener="#{displayMB.setViewOnly(false)}"   
+									process="@this" ajax="true" global="true" async="true"  update=":form:dataTable :form:tab :form:save" rendered="#{securityMB.hasRole('EDITAR_livro')}" oncomplete="edit()" />
+	
+								<p:commandButton title="#{messages.label_delete}"
+									icon="ui-icon-trash" process="@none" onclick="PF('confDialog').show()"
+									ajax="true" global="true" disabled="#{object.id != ebookMB.selectedObject.id}"
+									rendered="#{securityMB.hasRole('EXCLUIR_LIVRO')}">
+								</p:commandButton>
+	
+							</p:toolbarGroup>
+						</p:column>								
+											
+						<p:ajax event="page" oncomplete="resetDataTableScroll(dataTableWV)"/>		
+				</p:dataTable>	
+		    </p:outputPanel>
+		</h:form>	
+	</h:body> 
 </html>

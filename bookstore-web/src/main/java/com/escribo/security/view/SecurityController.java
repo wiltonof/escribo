@@ -163,6 +163,24 @@ public class SecurityController extends AbstractController<IUser> {
 		}	
 	}
 	
+	public boolean hasRole(String role) {
+		// get security context from thread local
+		SecurityContext context = SecurityContextHolder.getContext();
+		if (context == null)
+			return false;
+
+		Authentication authentication = context.getAuthentication();
+		if (authentication == null)
+			return false;
+
+		for (GrantedAuthority auth : authentication.getAuthorities()) {
+			if (role.equals(auth.getAuthority()))
+				return true;
+		}
+
+		return false;
+	}
+	
 	public void setUserRealName(String userRealName) {
 		this.userRealName = userRealName;
 	}

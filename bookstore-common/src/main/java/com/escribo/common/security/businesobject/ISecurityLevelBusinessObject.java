@@ -2,7 +2,7 @@ package com.escribo.common.security.businesobject;
 
 import java.util.List;
 
-import com.escribo.common.businessobject.IBusinessObject;
+import com.escribo.common.foundation.businessobject.IBusinessObject;
 import com.escribo.common.security.model.ISecurityLevel;
 
 public interface ISecurityLevelBusinessObject extends IBusinessObject<ISecurityLevel> {

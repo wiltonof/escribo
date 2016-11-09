@@ -46,8 +46,13 @@ public abstract class DataProviderImpl implements IDataProvider {
 		try{
 			
 			if (((IModel) entity).getId() == null) {
+				((IModel) entity).setCreatedAt(new Date());
+				((IModel) entity).setUpdatedAt(new Date());
+				((IModel) entity).setDeleted(false);
+				((IModel) entity).setEnabled(true);
 				getSessionFactory().getCurrentSession().save(entity);
 			} else {
+				((IModel) entity).setUpdatedAt(new Date());
 				entity = getSessionFactory().getCurrentSession().merge(entity);
 			}
 		}catch(Exception e){

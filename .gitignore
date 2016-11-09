@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+.metadata
+.recommenders
+=======
 /RemoteSystemsTempFiles/
 ./RemoteSystemsTempFiles/*
 /Servers
@@ -5,3 +9,4 @@ Servers
 ./Servers
 .metadata/
 .recommenders/
+>>>>>>> 909b98552baf0240d6f8db55de89d693d64c742a
