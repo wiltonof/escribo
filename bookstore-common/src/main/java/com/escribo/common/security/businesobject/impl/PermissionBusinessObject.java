@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import com.escribo.common.businessobject.impl.BusinessObjectImpl;
+import com.escribo.common.foundation.businessobject.impl.BusinessObjectImpl;
 import com.escribo.common.security.businesobject.IPermissionBusinessObject;
 import com.escribo.common.security.model.IPermission;
 

@@ -1,4 +1,4 @@
-package com.escribo.common.businessobject.impl;
+package com.escribo.common.foundation.businessobject.impl;
 
 import java.util.Date;
 import java.util.List;
@@ -14,7 +14,7 @@ import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContext;
 import org.springframework.security.core.context.SecurityContextHolder;
 
-import com.escribo.common.businessobject.IBusinessObject;
+import com.escribo.common.foundation.businessobject.IBusinessObject;
 import com.escribo.common.foundation.model.IModel;
 import com.escribo.common.foundation.model.ReportColumn;
 import com.escribo.common.security.model.IUser;

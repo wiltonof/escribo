@@ -1,4 +1,4 @@
-package com.escribo.common.businessobject;
+package com.escribo.common.foundation.businessobject;
 
 import java.util.Date;
 import java.util.List;

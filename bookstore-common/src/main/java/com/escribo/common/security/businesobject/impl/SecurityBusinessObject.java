@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.stereotype.Component;
 
-import com.escribo.common.businessobject.impl.BusinessObjectImpl;
+import com.escribo.common.foundation.businessobject.impl.BusinessObjectImpl;
 import com.escribo.common.foundation.model.IModel;
 import com.escribo.common.security.businesobject.ISecurityBusinessObject;
 import com.escribo.common.security.dataprovider.ISecurityDataProvider;

@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.escribo.common.businessobject.impl.BusinessObjectImpl;
+import com.escribo.common.foundation.businessobject.impl.BusinessObjectImpl;
 import com.escribo.common.security.businesobject.ISecurityLevelBusinessObject;
 import com.escribo.common.security.dataprovider.ISecurityLevelDataProvider;
 import com.escribo.common.security.model.ISecurityLevel;

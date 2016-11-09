@@ -1,6 +1,6 @@
 package com.escribo.common.security.businesobject;
 
-import com.escribo.common.businessobject.IBusinessObject;
+import com.escribo.common.foundation.businessobject.IBusinessObject;
 import com.escribo.common.foundation.model.IModel;
 import com.escribo.common.security.model.IPermission;
 import com.escribo.common.security.model.IRole;
