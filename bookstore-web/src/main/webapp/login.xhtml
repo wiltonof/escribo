@@ -5,11 +5,37 @@
       xmlns:h="http://java.sun.com/jsf/html"
       xmlns:p="http://primefaces.org/ui"> 
 
-<h:head></h:head> 
+<h:head>
+<h:outputStylesheet library="css" name="application.css" />
+<h:outputStylesheet library="css" name="elephant.css" />
+<h:outputStylesheet library="css" name="vendor.css" />
+<h:outputStylesheet library="css" name="login.css" />
+
+</h:head> 
 <body> 
-	<h:form>
-		<p:outputLabel>Teste</p:outputLabel>
-		
-	</h:form>
+    <div class="login">
+      <div class="login-body">
+        <a class="login-brand" href="index.html">
+          <h:graphicImage styleClass="img-responsive" library="img" name="logo.jpg" alt="Book"/>
+        </a>
+        <h3 class="login-heading">Sign in</h3>
+        <div class="login-form">
+          <h:form data-toggle="validator">
+            <div class="form-group">
+              <h:outputLabel for="username" styleClass="control-label" value="Login" />
+              <h:inputText id="username" value="#{securityMB.userName}" styleClass="form-control" autocomplete="false" required="true" requiredMessage="Por favor informe o nome de usuário." />
+            </div>  
+            <div class="form-group">
+              <h:outputLabel for="password" styleClass="control-label" value="Senha" />
+              <h:inputSecret id="password" value="#{securityMB.password}" styleClass="form-control"  required="true" requiredMessage="Por favor informe uma senha." />
+            </div>
+            <div class="form-group">
+              <h:commandButton value="Entrar" styleClass="btn btn-primary btn-block" action="#{securityMB.login()}"/>
+            </div>
+          </h:form>
+        </div>
+      </div>
+    </div>
+
 </body> 
 </html>

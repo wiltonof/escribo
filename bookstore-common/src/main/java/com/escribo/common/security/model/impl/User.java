@@ -39,7 +39,7 @@ public class User extends AbstractModel implements IUser {
     private String name;
     private String username;
     private IRole role;
-    
+
     private List<ISecurityLevel> securityLevels = new ArrayList<ISecurityLevel>();
 	
 
@@ -177,9 +177,5 @@ public class User extends AbstractModel implements IUser {
 	public Collection<? extends GrantedAuthority> getAuthorities() {
 		return this.getRole().getPermissions();
 	}
-
-
-
-
 	
 }

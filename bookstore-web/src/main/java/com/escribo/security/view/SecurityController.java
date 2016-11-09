@@ -1,6 +1,5 @@
 package com.escribo.security.view;
 
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -86,13 +85,12 @@ public class SecurityController extends AbstractController<IUser> {
 				this.setUserRoleName(((IUser) result.getPrincipal()).getRole().getSecurityLevel().getDescription());
 				this.setUserEmail((((IUser) result.getPrincipal()).getEmail()));
 				this.loginAttempts = 0;
-				return "dashboard?faces-redirect=true";
+				return "pages/main?faces-redirect=true";
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
 			this.loginAttempts++;
 			FacesContext.getCurrentInstance().addMessage(null,MsgFactory.getMessage("message_login_failed",	FacesMessage.SEVERITY_WARN, ""));
-			// workaround to update primefaces captcha component
 			if (this.loginAttempts == 3) {
 				return "login?faces-redirect=true";
 			}
@@ -123,15 +121,6 @@ public class SecurityController extends AbstractController<IUser> {
 		}
 	}
 	
-	public String lastAcces(){
-		IUserAccessData access = getSecurityFacade().loadPrevUserAccessData();
-		return new SimpleDateFormat("dd-MM-yyyy").format(access.getCreatedAt());
-	}
-	
-	public String lastAccesAndHoures(){
-		IUserAccessData access = getSecurityFacade().loadPrevUserAccessData();
-		return new SimpleDateFormat("dd-MM-yyyy, HH:mm").format(access.getCreatedAt());
-	}
 	
 	public String getUserName() {
 		return userName;

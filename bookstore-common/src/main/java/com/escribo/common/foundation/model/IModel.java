@@ -34,12 +34,6 @@ public interface IModel extends Serializable, Cloneable {
 	public boolean getDeleted();
 	
 	public boolean isDeleted();
-
-	public boolean isSystem();
-
-	public boolean getSystem();
-
-	public void setSystem(boolean deleted);
 	
 	public IModel cloneModel();
 	
